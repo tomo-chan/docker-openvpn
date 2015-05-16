@@ -1,7 +1,7 @@
 # Original credit: https://github.com/jpetazzo/dockvpn
 
 # Leaner build then Ubunutu
-FROM debian:jessie
+FROM armbuild/debian
 
 MAINTAINER Kyle Manna <kyle@kylemanna.com>
 
